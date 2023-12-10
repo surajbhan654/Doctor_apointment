@@ -1,10 +1,12 @@
---------------------------------# Technology : MERN  #--------------------------------
-# Doctor_apointment🧑‍⚕️
+-------------------------------- Technology : **MERN  stack** --------------------------------
+# Doctor_apointment :
 
-<h3>Description :</h3> 
-This is a webapp where you can book an appointment with a doctor.
+> It is a self-service tool for patients to book appointments digitally to related their health issue for a particular clinic and it keeps track of all the info about doctor schedules, patients, and bookings.
+> The purpose of This project is to reduce all the manual effort of staff and patients. this can save both doctors' time and patients' time.
 
-### 📃Features :
+
+
+**Features**
 
 <ul>
 <li>User can register and login.</li>
